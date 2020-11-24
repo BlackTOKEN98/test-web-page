@@ -4,6 +4,8 @@
   "description": "This repository was created for solving problems",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . —fix",
     "test": "jest"
   },
   "repository": {
@@ -21,6 +23,9 @@
     "@babel/core": "^7.12.8",
     "@babel/preset-env": "^7.12.7",
     "babel-jest": "^26.6.3",
-    "eslint": "^7.14.0"
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.3"
   }
 }
