@@ -1,0 +1,20 @@
+{
+  "name": "test-web-page",
+  "version": "1.0.0",
+  "description": "This repository was created for solving problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackTOKEN98/test-web-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackTOKEN98/test-web-page/issues"
+  },
+  "homepage": "https://github.com/BlackTOKEN98/test-web-page#readme"
+}
